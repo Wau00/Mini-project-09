@@ -1,0 +1,25 @@
+*{
+    justify-content: center;
+    text-align: center;
+    font-size: larger;
+    font-weight: 600;
+    background-color: azure;
+}
+
+#name{
+    padding: 25px;
+}
+
+#location{
+    padding: 25px;
+}
+
+#bio{
+    padding: 25px;
+}
+#linkedIn{
+    padding: 25px;
+}
+#github{
+    padding: 25px;
+}
