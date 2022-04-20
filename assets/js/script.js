@@ -29,3 +29,7 @@ inquirer
         message: "What is your GitHub?"
     },
 ] )
+
+.then((response) => {
+    console.log(response)
+});
